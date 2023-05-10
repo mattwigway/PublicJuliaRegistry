@@ -1,0 +1,6 @@
+name = "PublicJuliaRegistry"
+uuid = "36a5c377-4d40-49e4-92cd-9a723194e489"
+repo = "git@github.com:mattwigway/PublicJuliaRegistry.git"
+description = "Matt Bhagat-Conway's public packages that aren't ready for General"
+
+[packages]
