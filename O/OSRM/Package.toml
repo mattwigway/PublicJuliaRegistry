@@ -1,0 +1,3 @@
+name = "OSRM"
+uuid = "b59920ca-ae83-47b1-a52c-d6d89e4b4b86"
+repo = "git@github.com:mattwigway/OSRM.jl"

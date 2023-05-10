@@ -5,3 +5,4 @@ description = "Matt Bhagat-Conway's public packages that aren't ready for Genera
 
 [packages]
 4acb3128-ab29-4f79-81e6-a8e25fdcc44d = { name = "SnapshotTests", path = "S/SnapshotTests" }
+b59920ca-ae83-47b1-a52c-d6d89e4b4b86 = { name = "OSRM", path = "O/OSRM" }
