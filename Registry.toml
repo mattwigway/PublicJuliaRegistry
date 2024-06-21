@@ -4,5 +4,6 @@ repo = "git@github.com:mattwigway/PublicJuliaRegistry.git"
 description = "Matt Bhagat-Conway's public packages that aren't ready for General"
 
 [packages]
+a74304e1-5a13-544f-adb7-0572470cee19 = { name = "OSRM_jll", path = "jll/O/OSRM_jll" }
 b59920ca-ae83-47b1-a52c-d6d89e4b4b86 = { name = "OSRM", path = "O/OSRM" }
 f9e57d04-be1f-4339-a529-971801331ddb = { name = "TransitRouter", path = "T/TransitRouter" }

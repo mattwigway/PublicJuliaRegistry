@@ -1,0 +1,10 @@
+[5]
+Artifacts = "1"
+Bzip2_jll = "1.0.8-1"
+Expat_jll = "2.2.10-2"
+JLLWrappers = "1.2.0-1"
+Libdl = "1"
+Lua_jll = "5.4.3-5.4"
+boost_jll = "1.79.0"
+julia = "1.8.0-1"
+oneTBB_jll = "2021.8.0-2021"
