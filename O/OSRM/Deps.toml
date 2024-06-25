@@ -9,3 +9,10 @@ ThreadsX = "ac1d9e8a-700a-412c-b207-f0111f4b6c0d"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
 Tar = "a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e"
+
+["0.3-0"]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+OSRM_jll = "a74304e1-5a13-544f-adb7-0572470cee19"
+osrmjl_jll = "08832bcf-5802-50c2-8976-ddd4c4421c29"
